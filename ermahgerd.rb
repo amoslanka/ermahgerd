@@ -1,4 +1,4 @@
-require 'CGI'
+# require 'CGI'
 
 class Ermahgerd < Sinatra::Base
 
